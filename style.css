@@ -1,0 +1,12 @@
+#chartdiv {
+  width: 100%;
+  height: 400px;
+}
+
+#server-log {
+  width: 100%;
+  height: 200px;
+  overflow: scroll;
+  background: #ffffe0;
+  border: 1px dotted #cdcdcd;
+}
